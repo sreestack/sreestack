@@ -1,11 +1,4 @@
-I'm **[Vijayabalan](https://www.linkedin.com/in/vijaystack/)** ; aka **Vijay**. 
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
-
-An Computer Cleaner born and raised in **Kumbakonam/India** and currently settled in **Belgium/Europe**.Currently working in European Commission as an Senior Architect.
-
-- :YouTube: I am helping technology and mentoring videos via my **[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
-
+I'm **[Sreekanth Kurapati ](https://www.linkedin.com/in/sreestack/)** ; aka **Sreekanth**. 
 - :newspaper: I contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
 
 - :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/vijaystack/)** | [YoutTube](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1) | [Twitter](https://twitter.com/bvijaycom) | [Instagram](https://www.instagram.com/bvijaycom/)
