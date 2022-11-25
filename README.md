@@ -7,7 +7,7 @@ I'm **[Sreekanth Kurapati ](https://www.linkedin.com/in/sreestack/)** ; aka **Sr
 
 [![Watch the video](ctotalk.jpeg)](https://blog.ctotalk.in/building-highly-accurate-fraud-detection-system-1a39b1f7014e)
 
-- :newspaper: Computer Cleaner to Senior Architect **[My Life Journey](https://www.linkedin.com/feed/update/urn:li:activity:6925568536266317824/)**.
+- :newspaper: My successa nd failure story **[My Life Journey](https://www.linkedin.com/feed/update/urn:li:activity:6925568536266317824/)**.
 
 
 [![Watch the video](believeyourself.png)](https://www.linkedin.com/feed/update/urn:li:activity:6909874259729223680/)
