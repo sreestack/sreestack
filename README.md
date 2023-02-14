@@ -22,7 +22,6 @@ Having 12 years of professional experience in IT with Masters education (MCA).
 
 Working as Technical Architect / Transformation Manager - Cloud & DevOps. Helping customers with Implementation & Cloud Migration - Fintech. 
 
-UK Resident.
 
 Having domain experience in Financial Services, automotive electronics, Healthcare,  Industrial, Public Sector engagements & Stock Exchange.
 
