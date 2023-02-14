@@ -24,7 +24,7 @@ Working as Technical Architect / Transformation Manager - Cloud & DevOps. Helpin
 
 UK Resident.
 
-Having domain experience in Financial Services, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, E & U, Public Sector engagements.
+Having domain experience in Financial Services, automotive electronics, Healthcare,  Industrial, Public Sector engagements & Stock Exchange.
 
 
 ## 𝐓ECHNICAL SKILLS
@@ -52,13 +52,6 @@ Having domain experience in Financial Services, Utilities, Oil and Gas, Telecomm
 
 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
-
-## ROLE: # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫
-
-<P>
-I am part of # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫𝐬 in Cloud Operatoins Category. I have been contributing to the communities by participating in technical events, sharing the Technical Content, Technical blogs, LinkedIn Technical Posts and LinkedIn documents.
-
-</p>
 
 
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫
@@ -169,30 +162,32 @@ CloudnLoud Twitter **https://twitter.com/cloudnloud**
 To **understand** more about **my career roles and experience**, please refer below icons & other links: 
 
 
-<a href="https://linkedin.com/in/sraddepalli">
+<a href="https://www.linkedin.com/in/sreestack/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://github.com/sraddepalli">
+<a href="https://github.com/sree1786">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://hashnode.com/@sraddepalli">
+<a href="https://hashnode.com/@sree1786">
   <img align="left" alt="hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
 </a>
 
-<a href="https://twitter.com/sraddepalli">
+<a href="https://twitter.com/sree1786">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <br />
 
-#### My Profile: https://sraddepalli.github.io   <br />
+#### My Profile: https://sree1786.github.io   <br />
+
+
 
 
 <!--
  <p align="left"> 
   
-  <img src="https://profile-counter.glitch.me/sraddepalli/count.svg" />
+  <img src="https://profile-counter.glitch.me/sree1786/count.svg" />
 	
 </p>
 
@@ -202,7 +197,7 @@ To **understand** more about **my career roles and experience**, please refer be
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sraddepalli/count.svg" />
+  <img src="https://profile-counter.glitch.me/sree1786/count.svg" />
 </p>
            
   -->    
@@ -223,6 +218,6 @@ To **understand** more about **my career roles and experience**, please refer be
 
 <!-- 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sraddepalli&label=Views&color=blue&style=plastic" alt="sraddepalli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sree1786&label=Views&color=blue&style=plastic" alt="sree1786" /> </p>
 
   --> 
