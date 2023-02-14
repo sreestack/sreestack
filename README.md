@@ -1,5 +1,5 @@
 <!--
-**sraddepalli/sraddepalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sreekanthkurapati/sree1786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ## Hi 👋
 
 
-I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can call me - **Srinivas**. .
+I'm **[Sreekanth kurapati](https://www.linkedin.com/in/sreestack/)** ; You can call me - **Sreekanth**. .
 
-Having 15 years of professional experience in IT with Masters education (MCA). 
+Having 12 years of professional experience in IT with Masters education (MCA). 
 
 Working as Technical Architect / Transformation Manager - Cloud & DevOps. Helping customers with Implementation & Cloud Migration - Fintech. 
 
