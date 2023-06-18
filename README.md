@@ -39,7 +39,7 @@ Having domain experience in Financial Services, automotive electronics, Healthca
 
 ## AWS
 
-- [AWS Cloud Services - Savings Plans & EC2 RIs (NU, PU, AU)](https://blog.cloudnloud.com/aws-cloud-services-savings-plans-ec2-ris-nu-pu-au-in-aws)
+- [AWS Cloud Services - Food ordering process (SNS,SQS,DynamoDB,S3,Python)](https://medium.com/cloudnloud/usecase-1-sns-sqs-dynamodb-s3-python-db479ba6aecc)
 - [AWS Cloud Services - Pillars of AWS Well-Architected Framework](https://blog.cloudnloud.com/aws-cloud-services-pillars-of-aws-well-architected-framework)
 - [AWS Cloud Services - AMP (Amazon Managed Service for Prometheus)](https://blog.cloudnloud.com/aws-cloud-services-amp-in-aws#heading-aws-cloud-services-amp-in-aws)
 - [AWS Cloud Services - AWS MGN](https://blog.cloudnloud.com/aws-cloud-services-aws-mgn)
