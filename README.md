@@ -40,6 +40,7 @@ Having domain experience in Financial Services, automotive electronics, Healthca
 ## AWS - Usecase Blogs 
 
 - [AWS Cloud Services - Food ordering process (SNS,SQS,DynamoDB,S3,Python)](https://medium.com/cloudnloud/usecase-1-sns-sqs-dynamodb-s3-python-db479ba6aecc)
+- [AWS Cloud Services - Different types of deploymenty (S3,Code Commit, Code Pipeline,Lambda,Fargate,security group, Loadbalacer ELB,VPC)](https://medium.com/cloudnloud/usecase-7-deployment-types-hot-deployment-rolling-deployment-blue-green-deployment-31d697b296a2)
 - [AWS Cloud Services - Pipeline Deployment(AWS codecommit, AWS codedeploy and Ec2 ) ](https://medium.com/cloudnloud/usecase-6-integration-aws-codecommit-aws-codedeploy-and-ec2-53c0bfd8f553)
 - [AWS Cloud Services - AWS Security (AWS Security group)](https://medium.com/cloudnloud/security-group-maintain-in-aws-using-of-python-2fb16ee5903f)
 - [AWS Cloud Services - Install Cloudwatch unified agent on EC2 ( AWS Cloud watch, Ec2)](https://medium.com/cloudnloud/install-cloudwatch-unified-agent-on-ec2-instance-and-gather-the-logs-a9094c1ff57a)
@@ -68,8 +69,10 @@ Having domain experience in Financial Services, automotive electronics, Healthca
 - [AWS Cloud Services - USECASE-1  (SNS,SQS,DynamoDB,S3,Python)] (https://youtu.be/odKhlh8TkTE) (part1)
 - [AWS Cloud Services - USECASE-1  (SNS,SQS,DynamoDB,S3,Python)] (https://youtu.be/1Myp7UxxhI4) (part2)
 - [AWS Cloud Services - USECASE-2 (AWS codecommit, AWS codedeploy and Ec2 )] (https://youtu.be/86Y8rp6xjtA )
-- 
-- 
+- [AWS Cloud Services - USECASE-3 (S3,Code Commit, Code Pipeline,Lambda,Fargate,security group, Loadbalacer ELB,VPC )] (https://youtu.be/Zrw-8NETiW8)
+
+## CI/CD  
+ 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
 
