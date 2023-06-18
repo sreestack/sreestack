@@ -37,19 +37,39 @@ Having domain experience in Financial Services, automotive electronics, Healthca
 
 ## TECHNICAL CONTRIBUTION
 
-## AWS
+## AWS - Usecase Blogs 
 
 - [AWS Cloud Services - Food ordering process (SNS,SQS,DynamoDB,S3,Python)](https://medium.com/cloudnloud/usecase-1-sns-sqs-dynamodb-s3-python-db479ba6aecc)
-- [AWS Cloud Services - Pillars of AWS Well-Architected Framework](https://blog.cloudnloud.com/aws-cloud-services-pillars-of-aws-well-architected-framework)
-- [AWS Cloud Services - AMP (Amazon Managed Service for Prometheus)](https://blog.cloudnloud.com/aws-cloud-services-amp-in-aws#heading-aws-cloud-services-amp-in-aws)
-- [AWS Cloud Services - AWS MGN](https://blog.cloudnloud.com/aws-cloud-services-aws-mgn)
-- [Security best practices of Amazon S3](https://blog.cloudnloud.com/security-best-practices-of-amazon-s3)
-- [Connect on-premises network securely to the AWS Cloud](https://blog.cloudnloud.com/connect-on-premises-network-securely-to-the-aws-cloud)
-- [AWS Control Tower Overview & Set up](https://blog.cloudnloud.com/aws-control-tower-overview-set-up)
-- [AWS Purpose-built databases Use Cases](https://blog.cloudnloud.com/aws-purpose-built-databases-use-cases)
-- [AWS Global Accelerator](https://blog.cloudnloud.com/aws-global-accelerator)
+- [AWS Cloud Services - Pipeline Deployment(AWS codecommit, AWS codedeploy and Ec2 ) ](https://medium.com/cloudnloud/usecase-6-integration-aws-codecommit-aws-codedeploy-and-ec2-53c0bfd8f553)
+- [AWS Cloud Services - AWS Security (AWS Security group)](https://medium.com/cloudnloud/security-group-maintain-in-aws-using-of-python-2fb16ee5903f)
+- [AWS Cloud Services - Install Cloudwatch unified agent on EC2 ( AWS Cloud watch, Ec2)](https://medium.com/cloudnloud/install-cloudwatch-unified-agent-on-ec2-instance-and-gather-the-logs-a9094c1ff57a)
+
+- [AWS Marketplace category and how does it work (AWS AMI,EC2)](https://medium.com/cloudnloud/what-is-aws-marketplace-category-and-how-does-it-work-7e3c0ff8b22)
+- [AWS Adding additional EBS volume to EC2 instance ( AWS EBS, EC2) ](https://medium.com/cloudnloud/adding-additional-ebs-volume-to-ec2-instance-a394d7d80a3a)
+- 𝐇𝐨𝐰 𝐭𝐨 𝐜𝐫𝐞𝐚𝐭𝐞 AWS 𝐄𝐂𝟐 𝐢𝐧𝐬𝐭𝐚𝐧𝐜𝐞 ( 𝐌𝐮𝐭𝐢𝐩𝐥𝐞 𝐰𝐚𝐲𝐬 𝐭𝐨 𝐜𝐫𝐞𝐚𝐭𝐞 𝐀𝐖𝐒 𝐄𝐂𝟐 )
+  
+  	I.  [How to create EC2 instance with CLI( Command Line interface )](https://medium.com/cloudnloud/how-to-create-ec2-instance-with-cli-command-line-interface-bd8c2a7f716d)
+  
+  	II.  [𝐇𝐨𝐰 𝐭𝐨 𝐜𝐫𝐞𝐚𝐭𝐞 𝐄𝐂𝟐 𝐢𝐧𝐬𝐭𝐚𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐩𝐲𝐭𝐡𝐨𝐧 𝐬𝐜𝐫𝐢𝐩𝐭](https://medium.com/cloudnloud/-dffc39124da2)
+  
+  	III. [How to create an EC2 instance from golden image](https://medium.com/cloudnloud/how-to-create-an-ec2-instance-from-golden-image-d372da1e242a)
+
+   	IV.  [How to create EC2 Instance using cloudformation](https://medium.com/cloudnloud/how-to-create-ec2-instance-using-cloudformation-1463a792878c)
+
+  	V.  [How to create EC2 Instance using Terraform ](https://medium.com/cloudnloud/how-to-create-ec2-instance-using-terraform-77a19b8edea7)
+
+  	VI.  [𝐂𝐫𝐞𝐚𝐭𝐞 𝐚 𝐬𝐢𝐦𝐩𝐥𝐞 𝐋𝐢𝐧𝐮𝐱 𝐄𝐂𝟐 𝐢𝐧𝐬𝐭𝐚𝐧𝐜𝐞](https://medium.com/cloudnloud/-67754b4e6592)
+
+  	VII.  [Configure and Launch a simple Linux EC2 instance](https://medium.com/@sreekanthkurapati/configure-and-launch-a-simple-linux-ec2-instance-2d6bb74c6c61)
 
 
+## AWS USECASE- Video links
+
+- [AWS Cloud Services - USECASE-1  (SNS,SQS,DynamoDB,S3,Python)] (https://youtu.be/odKhlh8TkTE) (part1)
+- [AWS Cloud Services - USECASE-1  (SNS,SQS,DynamoDB,S3,Python)] (https://youtu.be/1Myp7UxxhI4) (part2)
+- [AWS Cloud Services - USECASE-2 (AWS codecommit, AWS codedeploy and Ec2 )] (https://youtu.be/86Y8rp6xjtA )
+- 
+- 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
 
