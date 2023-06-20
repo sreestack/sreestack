@@ -66,10 +66,10 @@ Having domain experience in Financial Services, automotive electronics, Healthca
 
 ## AWS USECASE- Video links
 
-- [AWS Cloud Services - USECASE-1  (SNS,SQS,DynamoDB,S3,Python)] (https://youtu.be/odKhlh8TkTE) (part1)
-- [AWS Cloud Services - USECASE-1  (SNS,SQS,DynamoDB,S3,Python)] (https://youtu.be/1Myp7UxxhI4) (part2)
-- [AWS Cloud Services - USECASE-2 (AWS codecommit, AWS codedeploy and Ec2 )] (https://youtu.be/86Y8rp6xjtA )
-- [AWS Cloud Services - USECASE-3 (S3,Code Commit, Code Pipeline,Lambda,Fargate,security group, Loadbalacer ELB,VPC )] (https://youtu.be/Zrw-8NETiW8)
+- [AWS Cloud Services - USECASE-1  (SNS,SQS,DynamoDB,S3,Python)](https://youtu.be/odKhlh8TkTE) (part1)
+- [AWS Cloud Services - USECASE-1  (SNS,SQS,DynamoDB,S3,Python)](https://youtu.be/1Myp7UxxhI4) (part2)
+- [AWS Cloud Services - USECASE-2 (AWS codecommit, AWS codedeploy and Ec2 )](https://youtu.be/86Y8rp6xjtA )
+- [AWS Cloud Services - USECASE-3 (S3,Code Commit, Code Pipeline,Lambda,Fargate,security group, Loadbalacer ELB,VPC )](https://youtu.be/Zrw-8NETiW8)
 
 ## CI/CD  
  
