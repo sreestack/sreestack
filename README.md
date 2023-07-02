@@ -74,6 +74,7 @@ I have 10+ Technical Certification in AWS, Azure,  CKA/CKAD, Terraform Certified
 - [AWS Cloud Services - USECASE-1  (SNS,SQS,DynamoDB,S3,Python)](https://youtu.be/1Myp7UxxhI4) (part2)
 - [AWS Cloud Services - USECASE-2 (AWS codecommit, AWS codedeploy and Ec2 )](https://youtu.be/86Y8rp6xjtA )
 - [AWS Cloud Services - USECASE-3 (S3,Code Commit, Code Pipeline,Lambda,Fargate,security group, Loadbalacer ELB,VPC )](https://youtu.be/Zrw-8NETiW8)
+- [AWS Cloud Services - 𝐓𝐲𝐩𝐞𝐬 𝐨𝐟 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭𝐬 (EC2,Loadbalncer, security group, Autoscaling ,code deploy,code pipeline,Target groups,Deployment )](https://youtu.be/Zrw-8NETiW8) 
 
 <a href="https://www.linkedin.com/posts/sreestack_elasticsearch-cloudnloud-meetup-activity-7068115482171625472-fn8_?utm_source=share&utm_medium=member_desktop" target="_blank">
 <img src=https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label= alt=meetup style="margin-bottom: 5px;" />
