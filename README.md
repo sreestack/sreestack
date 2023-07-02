@@ -25,6 +25,9 @@ Working as Technical Architect / Transformation Manager - Cloud & DevOps. Helpin
 
 Having domain experience in Financial Services, automotive electronics, Healthcare,  Industrial, Public Sector engagements & Stock Exchange.
 
+I always love to learn - Unlearn - Relearn, Motivated to Share knowledge with peers, community and learn from them.
+
+I have 10+ Technical Certification in AWS, Azure,  CKA/CKAD, Terraform Certified
 
 ## 𝐓ECHNICAL SKILLS
 
@@ -78,7 +81,13 @@ Having domain experience in Financial Services, automotive electronics, Healthca
 
 - [AWS DevOps & Opensource Devops along with Log monitoring tools( Physical meetup )](http://bitly.ws/KdGB) 
 
- 
+## 𝐂𝐈/𝐂𝐃 𝐎𝐩𝐞𝐧 𝐬𝐨𝐮𝐫𝐜𝐞 
+
+## 𝐔𝐬𝐞𝐜𝐚𝐬𝐞 𝐁𝐥𝐨𝐠𝐬
+
+[𝐂𝐈/𝐂𝐃 - 𝐔𝐬𝐞𝐂𝐚𝐬𝐞-𝟗 (𝐠𝐢𝐭-𝐦𝐚𝐯𝐞𝐧-𝐬𝐨𝐧𝐚𝐫-𝐧𝐞𝐱𝐮𝐬-𝐭𝐨𝐦𝐜𝐚𝐭 )](http://bitly.ws/KdID)
+
+
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
 
