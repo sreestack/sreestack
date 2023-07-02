@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi 👋
 
 
-I'm **[Sreekanth kurapati](https://www.linkedin.com/in/sreestack/)** ; You can call me - **Sreekanth**. .
+I'm **[Sreekanth Kurapati](https://www.linkedin.com/in/sreestack/)** ; You can call me - **Sreekanth**. .
 
 Having 12 years of professional experience in IT with Masters education (MCA). 
 
