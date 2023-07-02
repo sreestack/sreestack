@@ -28,8 +28,8 @@ Having domain experience in Financial Services, automotive electronics, Healthca
 
 ## 𝐓ECHNICAL SKILLS
 
-•	Cloud (AWS, Google Cloud, Microsoft Azure and Oracle Cloud), Automation & DevOps, CI/CD <br />
-•	Python, Terraform, PowerShell <br />
+•	Cloud (AWS, Google Cloud, Microsoft Azure), Automation & DevOps, CI/CD <br />
+•	Python, Terraform, Ansible <br />
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
 •	Atlassian tools (JIRA, Confluence), ServiceNow and Remedy <br />
 •      Agile Service Delivery, Stakeholder Management, ITSM, Project Management <br />
@@ -42,6 +42,7 @@ Having domain experience in Financial Services, automotive electronics, Healthca
 - [AWS Cloud Services - Food ordering process (SNS,SQS,DynamoDB,S3,Python)](https://medium.com/cloudnloud/usecase-1-sns-sqs-dynamodb-s3-python-db479ba6aecc)
 - [AWS Cloud Services - Different types of deploymenty (S3,Code Commit, Code Pipeline,Lambda,Fargate,security group, Loadbalacer ELB,VPC)](https://medium.com/cloudnloud/usecase-7-deployment-types-hot-deployment-rolling-deployment-blue-green-deployment-31d697b296a2)
 - [AWS Cloud Services - Pipeline Deployment(AWS codecommit, AWS codedeploy and Ec2 ) ](https://medium.com/cloudnloud/usecase-6-integration-aws-codecommit-aws-codedeploy-and-ec2-53c0bfd8f553)
+  
 - [AWS Cloud Services - AWS Security (AWS Security group)](https://medium.com/cloudnloud/security-group-maintain-in-aws-using-of-python-2fb16ee5903f)
 - [AWS Cloud Services - Install Cloudwatch unified agent on EC2 ( AWS Cloud watch, Ec2)](https://medium.com/cloudnloud/install-cloudwatch-unified-agent-on-ec2-instance-and-gather-the-logs-a9094c1ff57a)
 
@@ -160,48 +161,30 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 - [AWS Cloud DevOps UseCase Internship Week 8 Day 16 Slot 1](https://youtu.be/ZHuvfk6VOZs)
 - [AWS Cloud DevOps UseCase Internship Week 8 Day 16 Slot 2](https://youtu.be/KlVfpKrFChM)
 
-# AWS weekly-cloud-engineer-interview-program - GitHUB
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sree1786&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-- [AWS weekly-cloud-engineer-interview-program](https://github.com/cloudnloud/weekly-cloud-engineer-interview-program)
-
-Follow us (**CloudnLoud Tech Community**) with the below links:
-
-<!-- For **any queries** use our CloudnLoud Discord **https://discord.gg/vbjRQGVhuF**      -->
-	
-Check **Posts and events sections** in our CloudnLoud LinkedIn page for **upcoming free technical sessions/events**: **https://www.linkedin.com/company/cloudnloud**
-	
-Check for **Cloud & DevOps full series** in our CloudnLoud Youtube Channel  **https://www.youtube.com/c/cloudnloud**
-	
-For all use cases refer our CloudnLoud Github **https://github.com/cloudnloud**
-     
-CloudnLoud Facebook **https://www.facebook.com/cloudnloudtech**
-	
-CloudnLoud Twitter **https://twitter.com/cloudnloud**			  
-			     
-
-<br />
-
-To **understand** more about **my career roles and experience**, please refer below icons & other links: 
+<br/>
 
 
-<a href="https://www.linkedin.com/in/sreestack/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[![Watch the video](sreekanth.png)]
+## Connect with me  
+
+
+<a href="https://github.com/sree1786" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-
-<a href="https://github.com/sree1786">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://medium.com/@sreekanthkurapati" target="_blank">
+<img src=https://img.shields.io/badge/medium.com-%2308090A.svg?&style=for-the-badge&logo=medium.com&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://hashnode.com/@sree1786">
-  <img align="left" alt="hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
+<a href="https://www.linkedin.com/in/sreestack/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.youtube.com/user/cloudnloud" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a> 
 
-<a href="https://twitter.com/sree1786">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 
-<br />
-
-#### My Profile: https://sree1786.github.io   <br />
 
 
 
