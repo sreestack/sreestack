@@ -72,7 +72,12 @@ Having domain experience in Financial Services, automotive electronics, Healthca
 - [AWS Cloud Services - USECASE-2 (AWS codecommit, AWS codedeploy and Ec2 )](https://youtu.be/86Y8rp6xjtA )
 - [AWS Cloud Services - USECASE-3 (S3,Code Commit, Code Pipeline,Lambda,Fargate,security group, Loadbalacer ELB,VPC )](https://youtu.be/Zrw-8NETiW8)
 
-## CI/CD  
+<a href="https://www.linkedin.com/posts/sreestack_elasticsearch-cloudnloud-meetup-activity-7068115482171625472-fn8_?utm_source=share&utm_medium=member_desktop" target="_blank">
+<img src=https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label= alt=meetup style="margin-bottom: 5px;" />
+</a> 
+
+- [AWS DevOps & Opensource Devops along with Log monitoring tools( Physical meetup )](http://bitly.ws/KdGB) 
+
  
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
