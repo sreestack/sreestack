@@ -81,7 +81,7 @@ I have 10+ Technical Certification in AWS, Azure,  CKA/CKAD, Terraform Certified
 
 - [AWS DevOps & Opensource Devops along with Log monitoring tools( Physical meetup )](http://bitly.ws/KdGB) 
 
-# Shared all trainings  / session materials here at YouTube for community members.
+# AWS POC's playlist / Shared all trainings / session materials here at YouTube for community members.
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/playlist?list=PLh_VNk4-EHTP-6U2jR05pYgpOcPgJDE5N)
 
