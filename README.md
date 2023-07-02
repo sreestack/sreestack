@@ -83,7 +83,12 @@ I have 10+ Technical Certification in AWS, Azure,  CKA/CKAD, Terraform Certified
 
 # AWS POC's playlist / Shared all trainings / session materials here at YouTube for community members.
 
+
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/playlist?list=PLh_VNk4-EHTP-6U2jR05pYgpOcPgJDE5N)
+
+![Watch the video](usecaselist.png)
+
+- https://www.youtube.com/playlist?list=PLh_VNk4-EHTP-6U2jR05pYgpOcPgJDE5N
 
 ## 𝐂𝐈/𝐂𝐃 𝐎𝐩𝐞𝐧 𝐬𝐨𝐮𝐫𝐜𝐞 
 
