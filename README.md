@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm **[Sreekanth Kurapati](https://www.linkedin.com/in/sreestack/)** ; You can call me - **Sreekanth**. .
 
-Having 12 years of professional experience in IT with Masters education (MCA). 
+Having 13 years of professional experience in IT with Masters education (MCA). 
 
 Working as Technical Architect / Transformation Manager - Cloud & DevOps. Helping customers with Implementation & Cloud Migration - Fintech. 
 
