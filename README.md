@@ -91,7 +91,26 @@ I have 10+ Technical Certification in AWS, Azure,  CKA/CKAD, Terraform Certified
 
 - https://www.youtube.com/playlist?list=PLh_VNk4-EHTP-6U2jR05pYgpOcPgJDE5N
 
-## TECHNICAL CONTRIBUTION 
+## 𝐂𝐍𝐂𝐅
+
+𝐈𝐬𝐭𝐢𝐨 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐌𝐞𝐬𝐡 --> https://www.linkedin.com/posts/sreestack_istio-servicemesh-step-by-step-activity-7087328633010208770-Bgve?utm_source=share&utm_medium=member_desktop
+
+𝐇𝐞𝐥𝐦  --> https://www.linkedin.com/posts/sreestack_helm-installation-and-best-practices-activity-7085603644775010304-cirB?utm_source=share&utm_medium=member_desktop
+
+𝐀𝐫𝐠𝐨𝐂𝐃 --> https://www.linkedin.com/posts/sreestack_argocd-basics-and-installation-activity-7083805167065722880-d47f?utm_source=share&utm_medium=member_desktop
+
+
+## 𝐌𝐞𝐞𝐭𝐮𝐩'𝐬
+
+https://www.linkedin.com/posts/sreestack_elasticsearch-cloudnloud-meetup-activity-7068115482171625472-fn8_?utm_source=share&utm_medium=member_desktop
+
+https://www.linkedin.com/posts/sreestack_cloudnloud-learing-leadership-activity-7097946695585439744-Os3r?utm_source=share&utm_medium=member_desktop
+
+https://www.linkedin.com/posts/sreestack_cloudnloud-gratitude-learing-activity-7070815429509738497-NoU5?utm_source=share&utm_medium=member_desktop
+
+https://www.linkedin.com/posts/sreestack_elastic-cloudnloud-tech-in-person-meetup-activity-7100825255190962176-Fas6?utm_source=share&utm_medium=member_desktop
+
+
 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
