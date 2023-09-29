@@ -134,7 +134,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sree1786&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sreestack&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
 
@@ -144,7 +144,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 ![Watch the video](sreekanth.png)
 
-<a href="https://github.com/sree1786" target="_blank">
+<a href="https://github.com/sreestack" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@sreekanthkurapati" target="_blank">
