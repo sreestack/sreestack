@@ -82,7 +82,7 @@ I have 10+ Technical Certification in AWS, Azure,  CKA/CKAD, Terraform Certified
 
   	VII.  [Configure and Launch a simple Linux EC2 instance](https://medium.com/@sreekanthkurapati/configure-and-launch-a-simple-linux-ec2-instance-2d6bb74c6c61)
 
-## [𝐀𝐖𝐒 𝐃𝐞𝐯𝐨𝐩𝐬 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧] (https://www.linkedin.com/posts/sreestack_aws-devops-certificationachievement-activity-7159959145490575360-nhC-?utm_source=share&utm_medium=member_desktop )
+- [𝐀𝐖𝐒 𝐃𝐞𝐯𝐨𝐩𝐬 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧] (https://www.linkedin.com/posts/sreestack_aws-devops-certificationachievement-activity-7159959145490575360-nhC-?utm_source=share&utm_medium=member_desktop )
 
 ## AWS USECASE- Video links
 
