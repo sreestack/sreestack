@@ -214,7 +214,13 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 </p>
 
-    -->    
+    --> 
+![meetup](meetup-2.jfif)
+
+![meetup](meetp-3.jfif)
+
+![meetup](college-1.jfif)
+  
 ![meetup](sree3.jfif)
 
 ![meetup](sree2.jfif)
