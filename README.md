@@ -55,7 +55,7 @@ I have 10+ Technical Certification in AWS, Azure,  CKA/CKAD, Terraform Certified
 - [AWS devops pipeline ] ( https://medium.com/cloudnloud/aws-devops-use-case-day-2-e44497ea1f43 )
 - [AWS Elastic Beanstalk, with VPC (Virtual Private Cloud) and RDS (Relational Database Service) integration, involves fine-tuning various components of the infrastructure] 
  (https://medium.com/cloudnloud/optimizing-performance-elastic-beanstalk-vpc-and-rds-integration-c0745508f192)
-- [Streamlining AWS EC2 Deployments with GitLab and Terraform](https://medium.com/cloudnloud/streamlining-aws-ec2-deployments-with-gitlab-and-terraform-f330f0b16c37)
+- [Streamlining AWS EC2 Deployments with GitLab and Terraform] (https://medium.com/cloudnloud/streamlining-aws-ec2-deployments-with-gitlab-and-terraform-f330f0b16c37)
 - [AWS Cloud Services - Food ordering process (SNS,SQS,DynamoDB,S3,Python)](https://medium.com/cloudnloud/usecase-1-sns-sqs-dynamodb-s3-python-db479ba6aecc)
 - [AWS Cloud Services - Different types of deploymenty (S3,Code Commit, Code Pipeline,Lambda,Fargate,security group, Loadbalacer ELB,VPC)](https://medium.com/cloudnloud/usecase-7-deployment-types-hot-deployment-rolling-deployment-blue-green-deployment-31d697b296a2)
 - [AWS Cloud Services - Pipeline Deployment(AWS codecommit, AWS codedeploy and Ec2 ) ](https://medium.com/cloudnloud/usecase-6-integration-aws-codecommit-aws-codedeploy-and-ec2-53c0bfd8f553)
