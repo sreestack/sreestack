@@ -42,18 +42,19 @@ I have 10+ Technical Certification in AWS, Azure,  CKA/CKAD, Terraform Certified
 
 ## 𝐀𝐖𝐒𝐃𝐞𝐯𝐨𝐩𝐬𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫
 
-- [AWS Codecommit, AWS Code pipeline, AWS Code Build, AWS Code Deploy, AWS EC2-Imagebuilder, AWS Code Artifact, AWS Code Guru, AWS Amplify](https://medium.com/cloudnloud/aws-devops-engineer-day1-1278bb218165)
--  [AWS 𝐜𝐥𝐨𝐮𝐝 𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞, 𝐀𝐖𝐒 𝐬𝐞𝐫𝐯𝐢𝐜𝐞 𝐜𝐚𝐭𝐚𝐥𝐨𝐠, 𝐀𝐖𝐒 𝐂𝐋𝐈, 𝐄𝐥𝐚𝐬𝐭𝐢𝐜 𝐁𝐞𝐚𝐧𝐬𝐭𝐚𝐥𝐤, 𝐒𝐞𝐫𝐯𝐞𝐫𝐥𝐞𝐬𝐬 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐌𝐨𝐝𝐞𝐥](https://medium.com/cloudnloud/aws-devops-engineer-day-3-2c5bc1583cb0)
--  [𝐀𝐖𝐒 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐊𝐢𝐭,𝐀𝐖𝐒 𝐒𝐭𝐞𝐩 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬, 𝐀𝐖𝐒 𝐀𝐩𝐩𝐜𝐨𝐧𝐟𝐢𝐠, 𝐀𝐖𝐒 𝐒𝐲𝐬𝐭𝐞𝐦 𝐌𝐚𝐧𝐚𝐠𝐞𝐫, 𝐀𝐖𝐒 𝐎𝐏𝐒𝐖𝐨𝐫𝐤𝐬](https://medium.com/cloudnloud/aws-devops-engineer-day-3-2c5bc1583cb0)
--  [AWS Lambda, AWS EKS, API Gateway, 𝐀𝐦𝐚𝐳𝐨𝐧 𝐄𝐥𝐚𝐬𝐭𝐢𝐂𝐚𝐜𝐡𝐞,𝐀𝐦𝐚𝐳𝐨𝐧 𝐑𝐨𝐮𝐭𝐞 𝟓𝟑,𝐀𝐦𝐚𝐳𝐨𝐧 𝐄𝐂𝐑,𝐄𝐂𝐒 ( 𝐄𝐥𝐚𝐬𝐭𝐢𝐜 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫 𝐒𝐞𝐫𝐯𝐢𝐜𝐞),AWS Kinesis](https://medium.com/cloudnloud/aws-devops-engineer-day-5-47550540636b)
--  [AWS event bridge , AWS health dashboard , Amazon SQS, AWS X-Ray, AWS Cloudtrail , AWS s3](https://medium.com/cloudnloud/aws-devops-engineer-day-8-9037f5f17072)
+- [AWS Codecommit, AWS Code pipeline, AWS Code Build, AWS Code Deploy, AWS EC2-Imagebuilder, AWS Code Artifact, AWS Code Guru, AWS Amplify] (https://medium.com/cloudnloud/aws-devops-engineer-day1-1278bb218165)
+-  [AWS 𝐜𝐥𝐨𝐮𝐝 𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞, 𝐀𝐖𝐒 𝐬𝐞𝐫𝐯𝐢𝐜𝐞 𝐜𝐚𝐭𝐚𝐥𝐨𝐠, 𝐀𝐖𝐒 𝐂𝐋𝐈, 𝐄𝐥𝐚𝐬𝐭𝐢𝐜 𝐁𝐞𝐚𝐧𝐬𝐭𝐚𝐥𝐤, 𝐒𝐞𝐫𝐯𝐞𝐫𝐥𝐞𝐬𝐬 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐌𝐨𝐝𝐞𝐥] (https://medium.com/cloudnloud/aws-devops-engineer-day-3-2c5bc1583cb0)
+-  [𝐀𝐖𝐒 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐊𝐢𝐭,𝐀𝐖𝐒 𝐒𝐭𝐞𝐩 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬, 𝐀𝐖𝐒 𝐀𝐩𝐩𝐜𝐨𝐧𝐟𝐢𝐠, 𝐀𝐖𝐒 𝐒𝐲𝐬𝐭𝐞𝐦 𝐌𝐚𝐧𝐚𝐠𝐞𝐫, 𝐀𝐖𝐒 𝐎𝐏𝐒𝐖𝐨𝐫𝐤𝐬] (https://medium.com/cloudnloud/aws-devops-engineer-day-3-2c5bc1583cb0)
+-  [AWS Lambda, AWS EKS, API Gateway, 𝐀𝐦𝐚𝐳𝐨𝐧 𝐄𝐥𝐚𝐬𝐭𝐢𝐂𝐚𝐜𝐡𝐞,𝐀𝐦𝐚𝐳𝐨𝐧 𝐑𝐨𝐮𝐭𝐞 𝟓𝟑,𝐀𝐦𝐚𝐳𝐨𝐧 𝐄𝐂𝐑,𝐄𝐂𝐒 ( 𝐄𝐥𝐚𝐬𝐭𝐢𝐜 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫 𝐒𝐞𝐫𝐯𝐢𝐜𝐞),AWS Kinesis] (https://medium.com/cloudnloud/aws-devops-engineer-day-5-47550540636b)
+-  [AWS event bridge , AWS health dashboard , Amazon SQS, AWS X-Ray, AWS Cloudtrail , AWS s3] (https://medium.com/cloudnloud/aws-devops-engineer-day-8-9037f5f17072)
 
 
 ## AWS - Usecase Blogs 
 
-- [Amazon Systems Manager Automation](https://medium.com/cloudnloud/event-triggered-ec2-instance-automation-with-aws-systems-manager-and-eventbridge-235717722591)
-- [AWS devops pipeline ]( https://medium.com/cloudnloud/aws-devops-use-case-day-2-e44497ea1f43 )
-- [AWS Elastic Beanstalk, with VPC (Virtual Private Cloud) and RDS (Relational Database Service) integration, involves fine-tuning various components of the infrastructure](https://medium.com/cloudnloud/optimizing-performance-elastic-beanstalk-vpc-and-rds-integration-c0745508f192)
+- [Amazon Systems Manager Automation] (https://medium.com/cloudnloud/event-triggered-ec2-instance-automation-with-aws-systems-manager-and-eventbridge-235717722591)
+- [AWS devops pipeline ] ( https://medium.com/cloudnloud/aws-devops-use-case-day-2-e44497ea1f43 )
+- [AWS Elastic Beanstalk, with VPC (Virtual Private Cloud) and RDS (Relational Database Service) integration, involves fine-tuning various components of the infrastructure] 
+ (https://medium.com/cloudnloud/optimizing-performance-elastic-beanstalk-vpc-and-rds-integration-c0745508f192)
 - [Streamlining AWS EC2 Deployments with GitLab and Terraform](https://medium.com/cloudnloud/streamlining-aws-ec2-deployments-with-gitlab-and-terraform-f330f0b16c37)
 - [AWS Cloud Services - Food ordering process (SNS,SQS,DynamoDB,S3,Python)](https://medium.com/cloudnloud/usecase-1-sns-sqs-dynamodb-s3-python-db479ba6aecc)
 - [AWS Cloud Services - Different types of deploymenty (S3,Code Commit, Code Pipeline,Lambda,Fargate,security group, Loadbalacer ELB,VPC)](https://medium.com/cloudnloud/usecase-7-deployment-types-hot-deployment-rolling-deployment-blue-green-deployment-31d697b296a2)
