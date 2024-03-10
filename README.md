@@ -40,6 +40,11 @@ I have 10+ Technical Certification in AWS, Azure,  CKA/CKAD, Terraform Certified
 
 ## TECHNICAL CONTRIBUTION
 
+## 𝐀𝐖𝐒𝐃𝐞𝐯𝐨𝐩𝐬𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫
+
+- AWS Codecommit, AWS Code pipeline, AWS Code Build, AWS Code Deploy, AWS EC2-Imagebuilder, AWS Code Artifact, AWS Code Guru, AWS Amplify
+-  https://www.linkedin.com/posts/sreestack_aws-devops-engineerday1-activity-7089171956796706817-3lGE?utm_source=share&utm_medium=member_desktop 
+
 ## AWS - Usecase Blogs 
 
 - [AWS Cloud Services - Food ordering process (SNS,SQS,DynamoDB,S3,Python)](https://medium.com/cloudnloud/usecase-1-sns-sqs-dynamodb-s3-python-db479ba6aecc)
